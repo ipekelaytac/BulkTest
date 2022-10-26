@@ -1,0 +1,10 @@
+C:\Users\Demir\source\repos\BulkTest\BulkTest\bin\Debug\BulkTest.exe.config
+C:\Users\Demir\source\repos\BulkTest\BulkTest\bin\Debug\BulkTest.exe
+C:\Users\Demir\source\repos\BulkTest\BulkTest\bin\Debug\BulkTest.pdb
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.csprojAssemblyReference.cache
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.Form1.resources
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.Properties.Resources.resources
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.csproj.GenerateResource.cache
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.csproj.CoreCompileInputs.cache
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.exe
+C:\Users\Demir\source\repos\BulkTest\BulkTest\obj\Debug\BulkTest.pdb
